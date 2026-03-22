@@ -87,6 +87,6 @@ public class Date {
   }
 
   public void newMethod() {
-    System.out.println("New method added");
+    System.out.println("New method added by the owner");
   }
 }
