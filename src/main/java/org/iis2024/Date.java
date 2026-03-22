@@ -85,4 +85,8 @@ public class Date {
       return false;
     }
   }
+
+  public void newMethod() {
+    System.out.println("New method added");
+  }
 }
